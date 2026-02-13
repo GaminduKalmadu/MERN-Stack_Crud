@@ -8,5 +8,5 @@ app.listen(3000, () => {
 });
 
 app.get("/", (req, res) => {
-    res.send("Welcome to the homepage!");
+    res.send("Welcome to the Nodemon API!.");
 });
